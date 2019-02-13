@@ -12,7 +12,7 @@ title: Use in create-react-app
 Before all start, you may need install [yarn](https://github.com/yarnpkg/yarn/).
 
 ```bash
-$ yarn create react-app antd-demo
+$ yarn create-react-app antd-demo
 ```
 
 The tool will create and initialize environment and dependencies automatically,
